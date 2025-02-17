@@ -1,8 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #bigBox{
     width: 300px;
-   
+    
     display: grid;
     grid-template-columns: repeat(3,100px);
+ 
+
+
+
 }
 
 
